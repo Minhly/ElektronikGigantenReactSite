@@ -1,0 +1,72 @@
+.contentDiv {
+    margin-top: 15rem;
+}
+
+input, label {
+    display: block;  
+}
+
+.createButton1{
+    background-color: #D4810A;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.createButton2{
+    background-color: #D4810A;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.createButton3{
+    background-color: #D4810A;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    margin-left: 20.52%;
+}
+
+.createButton4{
+    background-color: #D4810A;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.descriptionTxt {
+    width: 100%;
+    height: 100px;
+}
+
+.searchBar {
+    font-size: 3rem;
+    width: 600px;
+    height: 70px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #D4810A;
+    background-color: #fbf3d4;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .products {
+      margin-top: 30px;
+  }
+
+  .thStyle {
+      width: 228px;
+      border: 1px solid black;
+      color: #D4810A;
+      text-align: center;
+  }
+
+  .salesTitle {
+      font-weight: bold;
+      font-size: 4rem;
+      color:#D4810A;
+      text-align: center;
+  }

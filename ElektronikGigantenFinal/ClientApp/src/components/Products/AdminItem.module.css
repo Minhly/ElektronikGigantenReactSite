@@ -1,0 +1,52 @@
+.product {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .title {
+    color: grey;
+    text-align: center;
+  }
+  
+  .description {
+    font-style: italic;
+    font-size: 0.8rem;
+  }
+  
+  .price {
+    position: absolute;
+    left:0;
+    bottom: 40px;
+    font-weight: bold;
+    color: #D4810A;
+    font-size: 1.25rem;
+    margin-left: 3px;
+    text-align: center;
+  }
+  
+  .imgIcon {
+    width: 150px;
+    height: 100px;
+    margin-left: 14%;
+  }
+  
+  .editButton{
+    position: absolute;  
+    bottom:0;
+    text-align: center;
+    left:0;
+    border-color: #D4810A;
+    color:#fff;
+    background-color:#D4810A;
+    padding: 5px;
+    margin-bottom: 3px;
+    margin-left: 2px;
+  }
+
+  .imgDiv {
+  }
+  
+  .contentDiv {
+  }

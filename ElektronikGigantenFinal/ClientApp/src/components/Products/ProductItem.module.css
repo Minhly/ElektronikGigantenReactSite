@@ -1,0 +1,37 @@
+.product {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #D4810A;
+  }
+  
+  .productl h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+  .description {
+    font-style: italic;
+    font-size: 0.8rem;
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #D4810A;
+    font-size: 1.25rem;
+  }
+  
+  .imgIcon {
+    width: 150px;
+    height: 100px;
+  }
+  
+  .imgDiv {
+    float:left;
+  }
+  
+  .contentDiv {
+    margin-left: 25px;
+    float:left;
+  }
